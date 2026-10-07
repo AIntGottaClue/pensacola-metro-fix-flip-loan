@@ -3,7 +3,7 @@ export const brand = `Pensacola Metro Fix & Flip Loan`;
 export const domain = 'pensacolafixandflip.loansapp.cfd';
 export const formName = 'Pensacola-Metro-Fix-Flip-Loan-Form';
 /** GA4 measurement ID. Leave empty until the property is created, then paste the G-XXXXXXXXXX value here. */
-export const ga4Id = '';
+export const ga4Id = 'G-714SF87PTW';
 
 type Raw = [slug:string, name:string, county:string, intro:string, angle:string, caution:string];
 const raw: Raw[] = [
